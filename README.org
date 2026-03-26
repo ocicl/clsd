@@ -1,0 +1,9 @@
+* clsd
+
+libsystemd bindings for Common Lisp.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/calsys456/clsd.git     |
+| commit  | 0000000                                        |
+| systems | clsd                                           |
+|---------+------------------------------------------------|
