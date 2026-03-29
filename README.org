@@ -4,6 +4,6 @@ libsystemd bindings for Common Lisp.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/calsys456/clsd.git     |
-| commit  | e22e764                                        |
+| commit  | fc4b7f2                                        |
 | systems | clsd                                           |
 |---------+------------------------------------------------|
